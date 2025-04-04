@@ -9,3 +9,6 @@ sites/site*/public/theme/
 textpattern/
 HISTORY.txt
 README.txt
+git add .
+git commit -m "Adicionando backend para enviar fotos"
+git push origin main
